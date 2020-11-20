@@ -1,0 +1,13 @@
+.cardInfo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100px;
+  display: flex;
+  margin: 20px;
+  border-bottom: 1px dotted rgba(119, 119, 119, 0.7);
+}
+.infoScan {
+  align-self: flex-end;
+  justify-content: center;
+}
